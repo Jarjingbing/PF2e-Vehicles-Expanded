@@ -1,0 +1,16 @@
+{
+  "id": "pf2e-vehicles-expanded",
+  "title": "PF2e Vehicles Expanded",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Jarjingbing",
+      "discord": "jarjingbing",
+      "flags": {}
+    }
+  ]
+}
